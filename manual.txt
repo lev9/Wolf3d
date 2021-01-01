@@ -1,0 +1,22 @@
+
+*=================================================*
+*                                                 *
+*  Modify map maze.wolf!                          *
+*  It will be used in the world 3.                *
+*                                                 *
+*   -the map must be a rectangle                  *
+*   -map width must be 8 - 10000                  *
+*   -the borders must be number 1's               *
+*   -must have a floor                            *
+*   -can have max 1 starting spot                 *
+*                                                 *
+*   -map can contain:                             *
+*                                                 *
+*   0 = floor (must have 1)                       *
+*   1 = a wall (must have 1)                      *
+*   6 = a starting spot (max 1)                   *
+*   8 = an ending spot                            *
+*   9 = a door                                    *
+*                                                 *
+*=================================================*
+
