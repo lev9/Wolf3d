@@ -12,7 +12,7 @@
 - quick switch level: z x
 
 <img align="left" width="620" height="540" SRC="pics/w3d1.png">
-<img align="left" width="620" height="540" SRC="pics/w3d2.png">
 <img align="left" width="620" height="540" SRC="pics/w3d3.png">
+<img align="left" width="620" height="540" SRC="pics/w3d2.png">
 <img align="left" width="620" height="540" SRC="pics/w3d4.png">
 <img align="left" width="620" height="540" SRC="pics/w3d5.png">
