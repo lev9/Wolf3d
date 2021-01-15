@@ -21,7 +21,7 @@ SRC = main.c parts.c help.c maze.c img_reader.c wimg_reader.c ray.c ray2.c \
 
 OBJ = $(subst .c,.o,$(SRC))
 
-MLXFLAGS = -I$(LIBMLX) -L$(LIBMLX) -lmlx -framework OpenGL -framework Appkit
+MLXFLAGS = -L$(LIBMLX) -lmlx -framework OpenGL -framework Appkit
 
 LIBFTFLAGS = -L$(LIBFT) -lft
 
